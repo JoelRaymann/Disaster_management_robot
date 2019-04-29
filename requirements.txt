@@ -1,0 +1,13 @@
+numpy
+pandas
+tensorflow==1.12
+opencv-python
+pillow
+keras
+scipy
+sklearn
+pynput
+socket
+threading
+matplotlib
+traceback

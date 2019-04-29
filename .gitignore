@@ -1,0 +1,6 @@
+# Folders
+.vscode/
+
+# Files
+app.log
+ObjectDetection/model_data/yolo.h5
