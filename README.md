@@ -61,7 +61,7 @@ If u want only the video relay method from RPi to Laptop. Then follow this metho
  pip install -r requirements_rpi.txt
  ```
  - The above will install all necessary for RPi
- - Now download the YOLO Model from my mega cloud storage from here [Click here to get the file](https://mega.nz/#!oPhlzS7Z) as yolo.h5 and put it in the ObjectDetection/model_data folder in the laptop
+ - Now download the YOLO Model from my mega cloud storage from here [Click here to get the file](https://mega.nz/#!NP5k2YzC) as yolo.h5 and put it in the ObjectDetection/model_data folder in the laptop. The Decrypting key is: I4iSHW9t3Kfu5SWqJNKFJZYYqOFywXVGyRGFEDwe0j4
  - Now run the below in your laptop
  ```bash
  python ControllerVideoServer.py <Laptop IP Address> <Port to communicate>
